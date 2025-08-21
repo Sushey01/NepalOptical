@@ -15,6 +15,7 @@ export default function Navbar() {
         <div className="flex items-center gap-4">
           <a href="#" className="text-sm hover:text-black">Account</a>
           <a href="#" className="text-sm hover:text-black">Cart (0)</a>
+          <a href="#" className="text-sm hover:text-black">Profile</a>
         </div>
       </div>
     </header>
